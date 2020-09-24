@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HelloGradPR</string>
+    <string name="str_btn_start">START PROGRESS</string>
+</resources>
